@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=hi,+My+name+is+Vitor+Rosa;I'm+18+years+old;I'm+from+Brazil;I+study+information+systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VitorRosa-VTR&bg_color=0a0c10&color=ffff00&line=ffff00&point=ffff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?VitorRosa-VTR=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VitorRosa-VTR&theme=onestar" />

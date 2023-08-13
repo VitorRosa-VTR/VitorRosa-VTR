@@ -4,17 +4,15 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VitorRosa-VTR&theme=github-dark-dimmed)](https://github.com/VitorRosa-VTR/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VitorRosa-VTR&theme=onestar" />
-</p>
-
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorRosa-VTR&show_icons=true&count_private=true&hide_border=true&title_color=FFFF00&icon_color=FFFF00&text_color=c9d1d9&bg_color=0a0c10" alt="VitorRosa-VTR github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRosa-VTR&layout=compact&hide_border=true&title_color=FFFF00&text_color=c9d1d9&bg_color=0a0c10" />
 </div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VitorRosa-VTR&theme=onestar" />
+</p>
 
 <div align="center"> 
 <a href="https://www.instagram.com/vtr_is_back/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
